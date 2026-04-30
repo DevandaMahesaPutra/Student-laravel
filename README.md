@@ -1,9 +1,7 @@
 # Student Laravel - Aplikasi Tolongin
 
 ## Deskripsi Aplikasi
-**Tolongin** adalah aplikasi web berbasis Laravel yang dirancang untuk memudahkan pengguna dalam mencari dan mengelola berbagai layanan jasa (seperti cleaning, repair, laundry, dll).
-
-Project ini merupakan tugas individu mahasiswa untuk mengimplementasikan fitur **CRUD** menggunakan framework Laravel.
+Tolongin adalah aplikasi web berbasis Laravel yang dirancang untuk memudahkan pengguna dalam mencari dan mengelola berbagai layanan jasa (seperti cleaning, repair, laundry, dll).
 
 ## Fitur yang Telah Diimplementasikan
 - CRUD Lengkap Mahasiswa/Layanan
