@@ -4,7 +4,7 @@
 Tolongin adalah aplikasi web berbasis Laravel yang dirancang untuk memudahkan pengguna dalam mencari dan mengelola berbagai layanan jasa (seperti cleaning, repair, laundry, dll).
 
 ## Fitur yang Telah Diimplementasikan
-- CRUD Lengkap Mahasiswa/Layanan
+- CRUD
 - Tampilan data dengan tabel
 - Form input data
 - Edit dan hapus data
